@@ -22,4 +22,5 @@ Superstore sample dataset, available at
 Structuring a data story, practice defining problem statement and analyses plan to do
 Movies Metadata IMdB, available at 
 
-              
+### Certificate
+![Data Visualization]()
