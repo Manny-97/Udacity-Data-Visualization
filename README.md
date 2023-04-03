@@ -23,4 +23,4 @@ Structuring a data story, practice defining problem statement and analyses plan 
 Movies Metadata IMdB, available at 
 
 ### Certificate
-![Data Visualization]()
+![Data Visualization](https://github.com/Manny-97/Udacity-Data-Visualization/blob/972d583823be60a3d45cfae773f7d397a021bbe8/Capstone%Project/certificate.pdf)
