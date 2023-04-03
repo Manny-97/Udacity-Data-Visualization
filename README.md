@@ -28,4 +28,4 @@ Movies Metadata IMdB, available at
 
 
 ### Certificate
-![Data Visualization](https://github.com/Manny-97/Udacity-Data-Visualization/blob/972d583823be60a3d45cfae773f7d397a021bbe8/Capstone%Project/certificate.pdf)
+![Data Visualization](https://github.com/Manny-97/Udacity-Data-Visualization/blob/192d8c7782cc8af7fe3e869c664e86f38f7de300/Capstone%Project/udacity.png)
