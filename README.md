@@ -14,13 +14,18 @@ Superstore sample dataset
               
 ### Project 3, _Design a Data Dashboard Final Project_
 Development of a complete dashboard adding color, annotations, interactivity and making it production ready
-Tableau & Alteryx
+Tableau & Python
 Superstore sample dataset, available at 
               
 
 ### Project 4, _Build a Data Story Midterm Project_   
 Structuring a data story, practice defining problem statement and analyses plan to do
 Movies Metadata IMdB, available at 
+
+
+### Project 5, _Capstone Project_   
+
+
 
 ### Certificate
 ![Data Visualization](https://github.com/Manny-97/Udacity-Data-Visualization/blob/972d583823be60a3d45cfae773f7d397a021bbe8/Capstone%Project/certificate.pdf)
