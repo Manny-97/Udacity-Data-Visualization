@@ -1,5 +1,6 @@
-A dataset on American's average sleep times has been downloaded from Makeover Monday. Links to both the dashboard and the 'Medium' blog that I wrote that explains the analysis including the data biases, are provided below.
+Below are links to the dashboard and Medium blog that I authored, which provides an analysis of the dataset downloaded from Makeover Monday pertaining to NYC Pizza slice.
+
 #### Dashboard link:
-https://public.tableau.com/app/profile/krishna.nadoor/viz/DataVisualizationCapstoneUdacityProject/AmericanSleepHabits
+https://public.tableau.com/app/profile/muhammed.jimoh/viz/Capstone1_16805342710630/Dashboard1?publish=yes
 #### Medium blog post link:
-https://medium.com/@knadoor/this-is-why-you-need-to-sleep-45087e283489
+https://medium.com/@muhammedjimoh47/must-you-always-stick-to-plain-pizza-940a859ea218
